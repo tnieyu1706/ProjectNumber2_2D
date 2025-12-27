@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a1d491743bc5f544822bae6f1ac0854
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320522
+  packageName: GameObjects and Scene Bookmarks
+  packageVersion: 2025.12.5
+  assetPath: Assets/Fables Alive Games/Addons/SceneLocationBookmarks/bookmark_sphere_mat.mat
+  uploadId: 829384

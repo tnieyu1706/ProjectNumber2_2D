@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d2770fd8e3744ea4f8a1fe9537f12f0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248846
+  packageName: Preview Field
+  packageVersion: 1.3.6
+  assetPath: Assets/previewfield/Editor/Scripts/PreviewFieldPropertyDrawer.cs
+  uploadId: 755657

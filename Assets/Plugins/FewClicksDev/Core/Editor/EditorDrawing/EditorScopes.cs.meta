@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 74d874ff388ef074fbf9e22596d3bca5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281099
+  packageName: Color Texture Generator
+  packageVersion: 1.2.1
+  assetPath: Assets/Plugins/FewClicksDev/Core/Editor/EditorDrawing/EditorScopes.cs
+  uploadId: 823258

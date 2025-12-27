@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 22a6b5d69ece7cc4b905e6a98b93b575
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 296859
+  packageName: Awesome Attributes
+  packageVersion: 1.0.6
+  assetPath: Assets/Plugins/AwesomeAttributes/README.md
+  uploadId: 778639

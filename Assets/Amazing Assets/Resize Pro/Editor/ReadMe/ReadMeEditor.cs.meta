@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8b4b2388558e6be498f8ac817f8db4d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61344
+  packageName: Resize Pro
+  packageVersion: 2025.1
+  assetPath: Assets/Amazing Assets/Resize Pro/Editor/ReadMe/ReadMeEditor.cs
+  uploadId: 837054

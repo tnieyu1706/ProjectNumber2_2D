@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ff2a653d4ff62346bc23c8a0067d2ea
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248846
+  packageName: Preview Field
+  packageVersion: 1.3.6
+  assetPath: Assets/previewfield/CHANGELOG.md
+  uploadId: 755657

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbef87dcae757a748a3c10bdb8c5903b
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248846
+  packageName: Preview Field
+  packageVersion: 1.3.6
+  assetPath: Assets/previewfield/package.json
+  uploadId: 755657

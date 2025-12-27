@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9ec89af7ed7237f46bef302de37211b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281099
+  packageName: Color Texture Generator
+  packageVersion: 1.2.1
+  assetPath: Assets/Plugins/FewClicksDev/ColorTextureGenerator/Editor/ColorWithCoverage.cs
+  uploadId: 823258

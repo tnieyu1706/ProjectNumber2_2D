@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f3df5085e4c4d94d8faad9533066e1e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320522
+  packageName: GameObjects and Scene Bookmarks
+  packageVersion: 2025.12.5
+  assetPath: Assets/Fables Alive Games/Addons/SceneLocationBookmarks/bookmark_sphere.prefab
+  uploadId: 829384
