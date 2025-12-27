@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ae7c53288c01f6b4eb479cc31af3e105
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281099
+  packageName: Color Texture Generator
+  packageVersion: 1.2.1
+  assetPath: Assets/Plugins/FewClicksDev/ColorTextureGenerator/Editor/ColorRampObject.cs
+  uploadId: 823258

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d045c9d452736da478a2be3e4af356ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232614
+  packageName: Assets Cache
+  packageVersion: 1.2.2
+  assetPath: Assets/Utilities/AssetsCache/Editor/AssetsCache.cs
+  uploadId: 620755

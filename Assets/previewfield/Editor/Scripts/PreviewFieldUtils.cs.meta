@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 46f39c27f0cb0f24ead0926fca8d9cdf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248846
+  packageName: Preview Field
+  packageVersion: 1.3.6
+  assetPath: Assets/previewfield/Editor/Scripts/PreviewFieldUtils.cs
+  uploadId: 755657

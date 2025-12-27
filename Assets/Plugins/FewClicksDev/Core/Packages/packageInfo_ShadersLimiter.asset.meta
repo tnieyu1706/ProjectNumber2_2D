@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb9880762f0de4146811a3affaff1bd6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281099
+  packageName: Color Texture Generator
+  packageVersion: 1.2.1
+  assetPath: Assets/Plugins/FewClicksDev/Core/Packages/packageInfo_ShadersLimiter.asset
+  uploadId: 823258

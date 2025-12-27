@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ca41efbe926a1249a29269db2d2c754
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281099
+  packageName: Color Texture Generator
+  packageVersion: 1.2.1
+  assetPath: Assets/Plugins/FewClicksDev/Core/Runtime/FewClicksDev.Core.Runtime.asmdef
+  uploadId: 823258

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a177470ef5af80e4f925287705e1bd0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281099
+  packageName: Color Texture Generator
+  packageVersion: 1.2.1
+  assetPath: Assets/Plugins/FewClicksDev/ColorTextureGenerator/Versioning/changelog_ColorTextureGenerator.asset
+  uploadId: 823258

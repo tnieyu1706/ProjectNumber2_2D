@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19a052fdd790250428dda47168705f28
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281099
+  packageName: Color Texture Generator
+  packageVersion: 1.2.1
+  assetPath: Assets/Plugins/FewClicksDev/Core/Packages/packageInfo_PhysicsInspector.asset
+  uploadId: 823258

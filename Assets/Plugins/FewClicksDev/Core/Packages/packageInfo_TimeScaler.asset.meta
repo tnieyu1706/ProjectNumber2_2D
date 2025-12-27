@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23de4a15f95b8844f80bb68c0faf8eb9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281099
+  packageName: Color Texture Generator
+  packageVersion: 1.2.1
+  assetPath: Assets/Plugins/FewClicksDev/Core/Packages/packageInfo_TimeScaler.asset
+  uploadId: 823258

@@ -1,0 +1,19 @@
+{
+    "name": "AwesomeAttributes.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0b91c3a9a78b36408b74932282c6dd2",
+        "GUID:d2942ff176959e0449d2044785dc6896"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

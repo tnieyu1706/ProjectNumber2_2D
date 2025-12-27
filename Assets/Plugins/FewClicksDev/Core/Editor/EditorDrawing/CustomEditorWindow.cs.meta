@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2e1e6217cbf51c649b0aec3b8bf8d3ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281099
+  packageName: Color Texture Generator
+  packageVersion: 1.2.1
+  assetPath: Assets/Plugins/FewClicksDev/Core/Editor/EditorDrawing/CustomEditorWindow.cs
+  uploadId: 823258

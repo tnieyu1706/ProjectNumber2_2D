@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e3c4134bea3a0045be3afbbbe4ed072
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248846
+  packageName: Preview Field
+  packageVersion: 1.3.6
+  assetPath: Assets/previewfield/LICENSE.md
+  uploadId: 755657

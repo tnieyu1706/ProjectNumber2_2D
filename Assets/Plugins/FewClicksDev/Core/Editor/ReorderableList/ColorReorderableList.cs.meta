@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 236456eee44af0343a4583263d2092ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281099
+  packageName: Color Texture Generator
+  packageVersion: 1.2.1
+  assetPath: Assets/Plugins/FewClicksDev/Core/Editor/ReorderableList/ColorReorderableList.cs
+  uploadId: 823258

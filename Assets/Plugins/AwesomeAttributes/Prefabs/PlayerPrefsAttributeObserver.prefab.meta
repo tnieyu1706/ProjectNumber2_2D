@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 784c9ec032d35e64d9a43131b51f8993
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 296859
+  packageName: Awesome Attributes
+  packageVersion: 1.0.6
+  assetPath: Assets/Plugins/AwesomeAttributes/Prefabs/PlayerPrefsAttributeObserver.prefab
+  uploadId: 778639
